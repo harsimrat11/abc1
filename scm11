@@ -40,20 +40,21 @@ Git branch
 Git commit -m “text”
 Git checkout branchname
 Git merge
+----------
 
 [CHMOD123 = to change permissions]
 
 touch a.txt
-
+ls -l
 chmod 123 a.txt
-
+---------
 
 PULL
 mkdir new1
 cd new1
 git init
 git pull https:// link of REPO
-
+-------------
 PUSH
 
 
