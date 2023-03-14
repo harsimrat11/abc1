@@ -1,0 +1,68 @@
+git init
+git config --global user.name Name 
+git config --global user.email email 
+
+git config --global user.name
+git config --global user.email
+
+
+•       ls →  It gives the file names in the folder. 
+•       ls -lart →  Gives the hidden files also. 
+•       git status →  Displays the state of the working directory and the staged snapshot. 
+•       touch filename →  This command creates a new file in the repository. 
+•       Clear →  It clears the terminal. 
+•       rm -rf .git →  It removes the repository. 
+•       git log →  displays all of the commits in a repository's history 
+•       git diff →  It compares my working tree to staging area. 
+ 
+git status
+Git log
+
+
+—————————
+
+git branch (main)
+git branch Namebranch (new branch)
+git checkout Namebranch(switches to new)
+git checkout main(switches to main)
+Echo:to print something
+
+
+mkdir
+Cd= change directory
+cd..  = exit from directory
+pwd= present working directory
+cat> filename= used to create new file
+
+Git add
+Git status
+Git branch 
+Git commit -m “text”
+Git checkout branchname
+Git merge
+
+[CHMOD123 = to change permissions]
+
+touch a.txt
+
+chmod 123 a.txt
+
+
+PULL
+mkdir new1
+cd new1
+git init
+git pull https:// link of REPO
+
+PUSH
+
+
+mkdir new1
+cd new1
+git init
+Git commit -m “hi”
+ 	git remote add https://github.com/harsimrat11/abc.git
+git remote -v
+git push -u origin main https://github.com/harsimrat11/abc.git
+
+
