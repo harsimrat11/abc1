@@ -50,6 +50,7 @@ chmod 123 a.txt
 ---------
 
 PULL
+cd desktop
 mkdir new1
 cd new1
 git init
@@ -57,7 +58,7 @@ git pull https:// link of REPO
 -------------
 PUSH
 
-
+cd desktop
 mkdir new1
 cd new1
 git init
