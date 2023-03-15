@@ -26,13 +26,14 @@ git branch Namebranch (new branch)
 git checkout Namebranch(switches to new)
 git checkout main(switches to main)
 Echo:to print something
+ 
 
-
-mkdir
+mkdir 
 Cd= change directory
 cd..  = exit from directory
 pwd= present working directory
 cat> filename= used to create new file
+n
 
 Git add
 Git status
